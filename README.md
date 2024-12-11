@@ -1,5 +1,5 @@
-Segmentasi Produk UMKM Puntadewa
-Repository ini berisi kodingan untuk sAnalisa Penjualan YIC Coffe menggunakan algoritma Linear Regression. Kami menggunakan algoritma ini untuk membantu memprediksi hasil jual produk pada tahun berikutnya berdasarkan jumlah penjualan (Quantity) di masa depan berdasarkan waktu (tanggal) dengan menggunakan rata-rata nilai harga dari data pelatihan.
+Segmentasi Produk UMKM YIC Cafe
+Repository ini berisi kodingan untuk Analisa Penjualan YIC Coffe menggunakan algoritma Linear Regression. Kami menggunakan algoritma ini untuk membantu memprediksi hasil jual produk pada tahun berikutnya berdasarkan jumlah penjualan (Quantity) di masa depan berdasarkan waktu (tanggal) dengan menggunakan rata-rata nilai harga dari data pelatihan.
 Dengan kata lain, Kita sedang mencoba memprediksi jumlah penjualan di masa depan untuk periode tertentu (misalnya 12 bulan ke depan) berdasarkan data historis waktu dan harga produk..
 
 Deskripsi Proyek
